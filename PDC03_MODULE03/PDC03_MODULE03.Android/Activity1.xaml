@@ -8,8 +8,19 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
-            <Label Text="TestGit"/>
-            <Button Text="TestGitBtn"/>
+            <Label Text="Activity03"/>
+            <Button Text="Activity03"/>
+
+            <ListView>
+                
+            </ListView>
+
+            <Grid>
+                
+            </Grid>
+            <Grid>
+
+            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
